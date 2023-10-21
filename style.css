@@ -1,3 +1,8 @@
 body{
-background-color:mediumorchid
+  background-color:mediumorchid
+}
+p{
+  color:deepskyblue;
+  text-align: justfy;
+  font-size:20px;
 }
