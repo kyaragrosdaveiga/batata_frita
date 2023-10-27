@@ -1,8 +1,15 @@
 body{
-  background-color:mediumorchid
+    background-color: rgb(162, 0, 255);
 }
+
 p{
   color:deepskyblue;
-  text-align: justfy;
-  font-size:20px;
+  text-alingn: justify;
+  font-size: 20px;
+}
+
+h1{
+  color:aquamarine;
+  text-aling:left;
+  font-size:50px;
 }
